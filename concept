@@ -1,0 +1,12 @@
+Open source programming langauge by microsoft
+Typed superset of JS
+compiles down to plain JS
+
+Relation to JS
+Optional static typing and type reference
+IDE support
+Rapid growth and use
+
+npm install -g typescript
+tsc -v
+automatically recompile the JS file if there is any change by using - tsc main --watch
